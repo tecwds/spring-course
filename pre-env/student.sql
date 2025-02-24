@@ -17,6 +17,8 @@
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
+CREATE DATABASE IF NOT EXISTS jdbc_demo;
+USE jdbc_demo;
 -- ----------------------------
 -- Table structure for course
 -- ----------------------------
